@@ -2,7 +2,7 @@
   "name": "copy-relative-path",
   "displayName": "Copy Relative Path",
   "description": "Copy Relative Path from a File",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "alexdima",
   "engines": {
     "vscode": "^1.4.0"
@@ -23,6 +23,11 @@
     ],
     "menus": {
       "explorer/context": [
+        {
+          "command": "copyRelativePath"
+        }
+      ],
+      "editor/title/context": [
         {
           "command": "copyRelativePath"
         }
