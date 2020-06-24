@@ -5,3 +5,8 @@
 ![copy-relative-path-editor-tab](https://user-images.githubusercontent.com/1461792/32966849-c6d47e68-cba0-11e7-8451-f46dfba525fe.gif)
 
 **Enjoy!**
+
+## For Ubuntu / Pop!_OS / or other Debian distro using Gnome
+You may need to install xclip for this plugin to work on the linux distros.
+
+`sudo apt-get install xclip`
